@@ -2,7 +2,6 @@
 #include <vector>
 #include <cmath>
 
-
 class Orc{
     int health=100;
     int wsp_x;
